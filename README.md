@@ -35,7 +35,7 @@ It's not hard to create your own repostiory.
 4. Now, go to GitHub and create a new empty SierpinskiTriangle repository. GitHub will provide the commands that you use to link your local SierpinskiTriangle folder to the GitHub repository    
 5. To display your program on the web, you will want to enable GitHub pages. Go to the settings for your repository, scroll down to the GitHub pages section, choose `Master branch` and click *Save*.   
 
-![alt text](http://url/to/img.png) 
+![alt text](https://static.wikia.nocookie.net/jerma-lore/images/e/ec/DUMP.png/revision/latest/scale-to-width-down/350?cb=20201231212754) 
 
 
 
