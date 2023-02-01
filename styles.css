@@ -8,13 +8,13 @@ body {
 	color: rgb(0,0,0);
 	text-align: center;
 	font-family: "ledlight";
-	text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa, 0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
 }
 
 marquee {
 	font-size: 70px;
-	color: #ffffff;
+	color: rgb(255,255,255);
 	behavior:"scroll";
+	text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa, 0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
 }
 
 #content {
@@ -24,5 +24,6 @@ marquee {
 }
 
 footer {
+	font-
 	font-size: 90%;
 }
