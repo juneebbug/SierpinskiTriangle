@@ -12,8 +12,7 @@ body {
 
 marquee {
 	font-size: 70px;
-	font-weight: 600;
-	color: #000000;
+	color: #ffffff;
 	behavior:"scroll";
 }
 
@@ -24,6 +23,5 @@ marquee {
 }
 
 footer {
-	font-style: italic, bold;
 	font-size: 90%;
 }
