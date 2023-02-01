@@ -11,6 +11,14 @@ body {
 	font-family: "ledlight";
 }
 
+marquee {
+	font-family: "ledlight";
+	font-size: 70px;
+	font-weight: 600;
+	color: #000000;
+	behavior:"scroll";
+}
+
 #content {
 	display: block;
 	margin-left: auto;
@@ -20,4 +28,5 @@ body {
 footer {
 	font-style: italic, bold;
 	font-size: 90%;
+	font-family: "ledlight";
 }
