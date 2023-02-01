@@ -1,3 +1,7 @@
+Lots of commits cus of changing HTML and CSS ;)
+
+
+
 Suggested steps to complete this assignment:
 ----------------------------------------------
 1. You may find slides #1 - 46 and 70 - 73 of the [Recursion presentation](https://docs.google.com/presentation/d/18S0EB1FL7U0c7BobGplV5LJfJ7WHh5eJoJwVK_8yhyc/edit?usp=sharing) and  the [Recursion 1 worksheet](https://drive.google.com/open?id=0Bz2ZkT6qWPYTN2U4M2E5ZTQtMGFhMC00ZDY0LThiMGItODMwYzBiMGFiODdi) helpful.
