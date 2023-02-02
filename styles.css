@@ -17,6 +17,9 @@ marquee {
 	text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 35px #a15, 0 0 54px #a15;
 	padding-top: 30px;
 	padding-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	scrollamount: 10;
 }
 
 #content {
