@@ -16,7 +16,6 @@ marquee {
 	font-size: 50px;
 	color: rgb(0,0,0);
 	text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 15px #fff;
-	padding-bottom: 15px;
 }
 
 #content {
