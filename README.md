@@ -21,7 +21,7 @@ Suggested steps to complete this assignment:
 
 ／￣￣￣￣￣￣￣￣                                                                      
 |　...so there she was, legs up on the mantlepiece and...                                                                      
-＼＿　 ＿＿＿＿＿＿                                                                                                                
+＼＿　 ＿＿＿＿＿＿                                                                                                                    
         　∨                                          
 ![alt text](https://static.wikia.nocookie.net/jerma-lore/images/e/ec/DUMP.png/revision/latest/scale-to-width-down/350?cb=20201231212754) 
 
