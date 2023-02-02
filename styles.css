@@ -22,7 +22,7 @@ marquee {
 #content {
 	display: block;
 	margin-left: 400px;
-	margin-right: 400px;
+	margin-right: 400px; /* how dafuq make content rounded instead of a solid square*/
 	background-color: rgb(0,0,0);
 	border-style: solid;
 	border-color: rgb(255,255,255);
