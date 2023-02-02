@@ -8,6 +8,7 @@ body {
 	color: rgb(0,0,0);
 	text-align: center;
 	font-family: "fontt";
+  	overflow: hidden; 
 }
 
 marquee {
@@ -18,7 +19,7 @@ marquee {
 	padding-bottom: 50px;
 	margin-left: auto;
 	margin-right: auto;
-	scrollamount: 10;
+	marquee-speed: fast;
 }
 
 #content {
