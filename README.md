@@ -19,9 +19,9 @@ Suggested steps to complete this assignment:
 5. You could also create a [Sierpinski carpet](http://en.wikipedia.org/wiki/Sierpinski_carpet), Wallis sieve, [Hawaiian earring](https://en.wikipedia.org/wiki/Hawaiian_earring), Menger sponge or similiar as an alternative to the Sierpinski Triangle.
 
 
-／￣￣￣￣￣￣￣￣
-|　...so there she was, legs up on the mantlepiece and...
-＼＿　 ＿＿＿＿＿＿
+／￣￣￣￣￣￣￣￣                                                                      
+|　...so there she was, legs up on the mantlepiece and...                                                                      
+＼＿　 ＿＿＿＿＿＿                                                                                                                
    　∨
 ![alt text](https://static.wikia.nocookie.net/jerma-lore/images/e/ec/DUMP.png/revision/latest/scale-to-width-down/350?cb=20201231212754) 
 
