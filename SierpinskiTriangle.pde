@@ -1,7 +1,7 @@
 public void setup()
 {
   background(0, 0, 0);
-  size(600, 600);
+  size(500, 500);
   strokeWeight(2);
   stroke(#ffffff, 50);
   strokeCap(ROUND);
@@ -9,7 +9,7 @@ public void setup()
 }
 public void draw()
 {
-  sierpinski(-2, -2, 600);
+  sierpinski(-2, -2, 500);
 }
 public void sierpinski(int x, int y, int len)
 {
