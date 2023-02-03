@@ -9,7 +9,7 @@ body {
 	color: rgb(255 6 6);
 	text-align: center;
 	font-family: "fontt";
-  overflow: hidden; /* hide scrollbar */
+	overflow: hidden; /* hide scrollbar */
 }
 
 marquee {
