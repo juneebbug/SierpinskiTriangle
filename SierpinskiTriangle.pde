@@ -4,7 +4,7 @@ public void setup()
   size(500, 500);
   strokeWeight(2);
   stroke(#ffffff, 50);
-  strokeCap(ROUND);
+  strokeCap(ROUND); //aaa
   fill(#000000);
 }
 public void draw()
